@@ -2,7 +2,7 @@
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 7294086644(whatsapp)
+- 📫 How to reach me kk612470@gmail.com(gmail)
 
 <!---
 krrishcoder/krrishcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
