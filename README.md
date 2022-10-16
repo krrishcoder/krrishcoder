@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krrishcoder
 - 👀 I’m interested in android development
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ , java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kk612470@gmail.com(gmail)
 
