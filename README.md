@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krrishcoder
-- 👀 I’m interested in android development
+- 👀 I’m interested in android development , WEB DEV , DEV OPS, ML
 - 🌱 I’m currently learning c++ , java , android development
 - 💞️ I’m looking for internship on android devs
 
