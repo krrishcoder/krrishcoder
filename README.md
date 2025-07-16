@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @krrishcoder<br>👀 I’m interested in android development , WEB DEV , DEV OPS, ML<br>🌱 I’m currently learning c++ , java , android development<br>💞️ I’m looking for internship on android devs
+👋 Hi, I’m @krrishcoder<br>👀 I’m interested in  WEB DEV , DEV OPS, ML/DL , computer vision , MLOPS  <br>🌱 I’m currently learning c++ , java , FAST API , node js , database <br>💞️ I’m looking for internship on ML/AI role
 
 
 
