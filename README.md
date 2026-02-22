@@ -16,6 +16,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=flat-square&logo=openai&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-4B8BBE?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=flat-square)![FAISS](https://img.shields.io/badge/FAISS-009688?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-8A2BE2?style=flat-square)
