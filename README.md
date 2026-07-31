@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @krrishcoder<br>👀 I’m interested in  Python Backend system design, AI, Fine-Tuning, DEV OPS, ML/DL , computer vision , MLOPS  <br>🌱 I’m currently learning Python, Agentic AI , FAST API , database, System Design. <br>💞️ I’m looking for internship on AI/ML role.
+👋 Hi, I’m @krrishcoder<br>👀 I’m interested in  Python Backend system design, AI, Fine-Tuning, DEV OPS, ML/DL , computer vision , MLOPS  <br>🌱 I’m currently learning Python, Agentic AI , FAST API , database, System Design. <br>💞️ I’m looking for JOB on AI/ML role.
 
 
 
